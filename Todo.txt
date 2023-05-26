@@ -1,0 +1,9 @@
+
+upload all video to channel 
+Generate Title
+click on save buttoon
+
+# 
+store title ideas
+using selenium
+
